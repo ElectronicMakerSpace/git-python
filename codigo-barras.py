@@ -8,3 +8,4 @@ while(contador==0):
         print ("Etiqueta Leida: {0}\n".format(numero))
         numero = 0
         #contador=contador+1
+        #comentario de pruebas unitarias
